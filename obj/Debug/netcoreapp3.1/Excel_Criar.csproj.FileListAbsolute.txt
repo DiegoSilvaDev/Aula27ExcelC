@@ -1,0 +1,13 @@
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Criar\bin\Debug\netcoreapp3.1\Excel_Criar.exe
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Criar\bin\Debug\netcoreapp3.1\Excel_Criar.deps.json
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Criar\bin\Debug\netcoreapp3.1\Excel_Criar.runtimeconfig.json
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Criar\bin\Debug\netcoreapp3.1\Excel_Criar.runtimeconfig.dev.json
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Criar\bin\Debug\netcoreapp3.1\Excel_Criar.dll
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Criar\bin\Debug\netcoreapp3.1\Excel_Criar.pdb
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Criar\obj\Debug\netcoreapp3.1\Excel_Criar.csprojAssemblyReference.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Criar\obj\Debug\netcoreapp3.1\Excel_Criar.csproj.CoreCompileInputs.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Criar\obj\Debug\netcoreapp3.1\Excel_Criar.AssemblyInfoInputs.cache
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Criar\obj\Debug\netcoreapp3.1\Excel_Criar.AssemblyInfo.cs
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Criar\obj\Debug\netcoreapp3.1\Excel_Criar.dll
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Criar\obj\Debug\netcoreapp3.1\Excel_Criar.pdb
+C:\Users\Diego\OneDrive\Área de Trabalho\Ux\SENAI\Excel_Criar\obj\Debug\netcoreapp3.1\Excel_Criar.genruntimeconfig.cache
